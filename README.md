@@ -2,7 +2,7 @@
 <hr>
 
 <p align="center">
-  <img width="800" src="https://tokeneo.com/uploads/2020/12/cryptokitties.jpeg" alt="Cat Card">
+  <img width="600" src="https://image.freepik.com/free-vector/cute-cat-sitting-laptop-icon-illustration_138676-85.jpg" alt="Cat Card">
 </p>
 
 A nice CLI application to interact with cat card application api
